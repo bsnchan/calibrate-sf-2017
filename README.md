@@ -161,11 +161,11 @@ This is a collection of notes from the Calibrate SF 2017 conference: https://www
 ```
 i.e. business impact vs years of engineering experience
 
-			         _ _
-			        |
-			     _ _|
-			    |
-			 _ _|
+			    _ _
+			   |
+		        _ _|
+		       |
+		    _ _|
 		   |
 ^		_ _|
 |
