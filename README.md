@@ -159,18 +159,19 @@ This is a collection of notes from the Calibrate SF 2017 conference: https://www
 **expectation**
 
 ```
-i.e.
-						         _ _
-						        |
-						     _ _|
-						    |
-						 _ _|
-					   |
-			^		_ _|
-business  |
-impact		|
-			|
-			|-------------> years of engineering experience
+i.e. business impact vs years of engineering experience
+
+			         _ _
+			        |
+			     _ _|
+			    |
+			 _ _|
+		   |
+^		_ _|
+|
+|
+|
+|-------------> 
 ```
 
 **reality**
@@ -180,10 +181,9 @@ impact		|
 
 **Resources**
 
-book: management handbook
-book: difficult conversations
-book: gum.co/present-ebook/calibrate2017
-
-slides: "the art of pre-meeting" - https://www.slideshare.net/KarenCatlin/the-premeeting-a-secret-weapon-for-new-managers/1
-
-blog: larahogan.me/blog/
+* book: management handbook
+* book: difficult conversations
+* book: gum.co/present-ebook/calibrate2017
+* slides: "the art of pre-meeting" - https://www.slideshare.net/KarenCatlin/the-premeeting-a-secret-weapon-for-new-managers/1
+* blog: larahogan.me/blog/
+* slack: rands leadership slack - nice community of tips for 1:1 and finding other engineering leaders - http://randsinrepose.com/welcome-to-rands-leadership-slack/
